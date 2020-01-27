@@ -26,5 +26,7 @@ learn css
 Implement JS
 Consider React?
 
-**STYLE** -> a clean, sleek and minimal look and feel
-Brand/logo with my name (-> Illustrator)
+**STYLE** 
+-> a clean, sleek and minimal look. 
+-> Brand/logo with my name (-> Illustrator)
+-> Cohesive style across all files/pages = Typography decisions(font,size, type) + Color Scheme
